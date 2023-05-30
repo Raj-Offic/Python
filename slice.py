@@ -1,4 +1,7 @@
+##basics for slicing
+
 list1=[1,2,3,4,'apple', 'banana', 'mango']
+
 strings ='abcdefghijklmnopqrstuvwxyz1234567890'
 
 print(strings[0])
