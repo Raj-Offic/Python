@@ -1,4 +1,3 @@
-
 txt=str(input("Enter your message to get reversed :"))
 x=int(len(txt))
 
